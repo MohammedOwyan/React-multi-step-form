@@ -19,6 +19,7 @@ body {
   background-color: var(--Magnolia);
   width: 100vw;
   height: 100vh;
+  font-family: sans-serif;
 }
 .App {
   height: 100vh;

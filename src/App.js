@@ -6,6 +6,7 @@ import AddOns from './Steps/Step_3.js';
 import Summary from './Steps/Step_4.js';
 import SuccessMessage from './Steps/SuccessMessage.js';
 import { FormContext } from './Steps/FormContext.js';
+import { useState } from 'react';
 
 function App() {
   const { currentPage } = useContext(FormContext);
